@@ -7,14 +7,18 @@
 </div>
 
 ## About
-Software Engineer and Data Analyst focused on building scalable systems and extracting insight from complex data. I work at the intersection of full-stack development, data engineering, and analytics — turning raw data into products people actually use.
-Currently building OSZ Polls, a platform that aggregates U.S. polling data, models district-level election outcomes, and powers real-time geographic visualizations.
 
-• Built 80% of the platform end-to-end, from front-end interfaces to back-end data pipelines  
-• Developed a Swingometer to simulate U.S. House election outcomes  
-• Designed district-level dashboards with live projections and trend analysis  
-• Integrated polling APIs to power real-time, map-based visualizations  
+Building data-driven systems that turn complex signals into real-world predictions.
 
+Developed **Voter DNA** — a machine learning model trained on 60,000+ samples that simulates how demographic traits and their interactions shape voting behavior. Combines LASSO regression with an interactive interface for real-time voter profile prediction.
+- 📊 [Voter DNA Live Demo](https://oszpolls.com/features/voter-dna.html)
+
+Also building **OSZ Polls**, a platform for aggregating U.S. polling data and modeling district-level election outcomes through live, map-based visualizations.
+
+• Built 80% of the platform end-to-end (front-end → data pipelines)  
+• Developed a Swingometer to simulate U.S. House elections  
+• Designed district-level dashboards with live projections  
+• Integrated real-time polling APIs for dynamic visualization  
 <details>
   <summary><strong>🛠 Tech Stack ▼</strong>(Click To Expand)</summary>
   <br>
