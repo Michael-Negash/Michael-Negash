@@ -10,7 +10,7 @@
 
 Building data-driven systems that turn complex signals into real-world predictions.
 
-Developed **Voter DNA** — a machine learning model trained on 60,000+ samples that simulates how demographic traits and their interactions shape voting behavior. Combines LASSO regression with an interactive interface for real-time voter profile prediction.
+Developed **Voter DNA**: a machine learning model trained on 60,000+ samples that simulates how demographic traits and their interactions shape voting behavior. Combines LASSO regression with an interactive interface for real-time voter profile prediction.
 - 📊 [Voter DNA Live](https://oszpolls.com/features/voter-dna.html)
 
 Also building **OSZ Polls**, a platform for aggregating U.S. polling data and modeling district-level election outcomes through live, map-based visualizations.
